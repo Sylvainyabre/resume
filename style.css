@@ -11,6 +11,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    box-sizing: border-box;
+   
 }
 
 .container{
@@ -187,6 +189,7 @@ margin-bottom: 20px;
 p{
     color: lightslategrey;
     text-align: justify;
+    font-size: 12px;
 }
 .about .skill_category{
     text-transform: uppercase;
